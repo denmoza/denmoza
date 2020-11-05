@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am denmoza.
 
 <!--
 **denmoza/denmoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me
-[twitter]: https://twitter.com/
+📚 I am a Full Time Student, studying IT
+🌱 I’m currently learning Swift(iOS)
+🧠 Programming language(s) I know: HTML5, CSS, Javascript, Python, Web Application (Microsoft SQL Server Management Studio, SQL) Swift(iOS)
