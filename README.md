@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 I am a Full Time Student, studying IT\n
-🌱 I’m currently learning Swift(iOS)\n
-🧠 Programming language(s) I know: HTML5, CSS, Javascript, Python, Web Application (Microsoft SQL Server Management Studio, SQL) Swift(iOS)
+📚 I am a Full Time Student, studying IT
+
+🌱 I’m currently learning Swift(iOS)
+
+🧠 Programming language(s) I know: 
+- HTML5 
+- CSS
+- Javascript
+- Python
+- Web Application (Microsoft SQL Server Management Studio, SQL)
+- Swift(iOS)
