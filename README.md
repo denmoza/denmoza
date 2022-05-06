@@ -1,4 +1,10 @@
-### Hi there 👋 I am denmoza.
+<h1 align="center">Denmoza</h1>
+
+<div align="center">
+  
+<https://github.com/denmoza>
+
+</div>
 
 <!--
 **denmoza/denmoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +22,6 @@ Here are some ideas to get you started:
 -->
 
 📚 I am a Full Time Student, studying IT
-
-🌱 I’m currently learning Swift(iOS)
 
 🧠 Programming language(s) I know: 
 - HTML5 
