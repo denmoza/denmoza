@@ -23,10 +23,4 @@ Here are some ideas to get you started:
 
 📚 I am a Full Time Student, studying IT
 
-🧠 Programming language(s) I know: 
-- HTML5 
-- CSS
-- Javascript
-- Python
-- Web Application (Microsoft SQL Server Management Studio, SQL)
-- Swift(iOS)
+
